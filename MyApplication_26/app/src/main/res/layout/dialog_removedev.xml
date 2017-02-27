@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:background="@android:color/transparent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+    >
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:background="@drawable/bg_dailog"
+                  android:orientation="vertical"
+
+
+        >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+
+            >
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:orientation="vertical"
+
+                >
+
+                <TextView
+                    android:id="@+id/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:gravity="center"
+
+                    android:text="jxppp"
+                    android:textSize="15dp"/>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#666666"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+
+            android:focusable="true"
+            >
+            <TextView
+                android:id="@+id/tv_remove_cancel"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/press_backimg_l"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="cancel"
+
+                android:textSize="15dp"
+                />
+            <View
+                android:id="@+id/v_xian"
+                android:layout_width="1dp"
+                android:layout_height="match_parent"
+                android:background="#666666"/>
+
+            <TextView
+                android:id="@+id/tv_remove_yes"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/press_backimg_r"
+                android:clickable="true"
+                android:gravity="center"
+                android:text="yes"
+                android:textSize="15dp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

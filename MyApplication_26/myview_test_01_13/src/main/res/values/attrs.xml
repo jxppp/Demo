@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="myTextColor" format="color"/>
+    <attr name="myTextSize" format="dimension"/>
+    <declare-styleable name="MyTest">
+        <attr name="android:text"/>
+        <attr name="myTextColor"/>
+        <attr name="myTextSize"/>
+    </declare-styleable>
+</resources>

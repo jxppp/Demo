@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio1\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asynctaskloadimage" />
+            <option value="$PROJECT_DIR$/asynctasktest" />
+            <option value="$PROJECT_DIR$/copyqq_slidingmenu" />
+            <option value="$PROJECT_DIR$/flowlayout" />
+            <option value="$PROJECT_DIR$/listviewandviewpage" />
+            <option value="$PROJECT_DIR$/listviewitemslide" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myblutoothtest" />
+            <option value="$PROJECT_DIR$/mydownLoad" />
+            <option value="$PROJECT_DIR$/mylineviewtest" />
+            <option value="$PROJECT_DIR$/myview_test_01_13" />
+            <option value="$PROJECT_DIR$/myviewtest11_02" />
+            <option value="$PROJECT_DIR$/touchtest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication_26.iml" filepath="$PROJECT_DIR$/MyApplication_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctaskloadimage/asynctaskloadimage.iml" filepath="$PROJECT_DIR$/asynctaskloadimage/asynctaskloadimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asynctasktest/asynctasktest.iml" filepath="$PROJECT_DIR$/asynctasktest/asynctasktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/copyqq_slidingmenu/copyqq_slidingmenu.iml" filepath="$PROJECT_DIR$/copyqq_slidingmenu/copyqq_slidingmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flowlayout/flowlayout.iml" filepath="$PROJECT_DIR$/flowlayout/flowlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewandviewpage/listviewandviewpage.iml" filepath="$PROJECT_DIR$/listviewandviewpage/listviewandviewpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewitemslide/listviewitemslide.iml" filepath="$PROJECT_DIR$/listviewitemslide/listviewitemslide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myblutoothtest/myblutoothtest.iml" filepath="$PROJECT_DIR$/myblutoothtest/myblutoothtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mydownLoad/mydownLoad.iml" filepath="$PROJECT_DIR$/mydownLoad/mydownLoad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylineviewtest/mylineviewtest.iml" filepath="$PROJECT_DIR$/mylineviewtest/mylineviewtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myview_test_01_13/myview_test_01_13.iml" filepath="$PROJECT_DIR$/myview_test_01_13/myview_test_01_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myviewtest11_02/myviewtest11_02.iml" filepath="$PROJECT_DIR$/myviewtest11_02/myviewtest11_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/touchtest/touchtest.iml" filepath="$PROJECT_DIR$/touchtest/touchtest.iml" />
+    </modules>
+  </component>
+</project>
